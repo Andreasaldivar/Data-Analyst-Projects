@@ -9,7 +9,7 @@ SELECT
     t.pais,
     t.continente,
     v.clave_territorio,
--- Calcula  ingreso_total y costo_total
+-- Total revenue and total cost calculations (KPIs). We will need to add them as two new columns.
 COALESCE(p.precio_producto*cantidad_pedido) AS ingreso_total,
 COALESCE (p.costo_producto*cantidad_pedido) AS costo_total
 FROM ventas_2017 AS v
