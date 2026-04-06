@@ -1,10 +1,10 @@
 ## Data Analyst Projects 
 
-## 🚀 Exploring KPIs with SQL.
-## 🚀 Funnel and retention analysis for e-commerce businesses.
-## 🚀 Urban mobility and economic productivity in LATAM cities (PYTHON).
-## 🚀 Analysis of a telecom company.
-## 🚀 Sprint 8
-## 🚀 Sprint 9
-## 🚀 Sprint 10
-## 🚀 Sprint 11
+### 🚀 Exploring KPIs with SQL.
+### 🚀 Funnel and retention analysis for e-commerce businesses.
+### 🚀 Urban mobility and economic productivity in LATAM cities (PYTHON).
+### 🚀 Analysis of a telecom company.
+### 🚀 Sprint 8
+### 🚀 Sprint 9
+### 🚀 Sprint 10
+### 🚀 Sprint 11
